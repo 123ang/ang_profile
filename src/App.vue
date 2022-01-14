@@ -60,7 +60,7 @@
                       :class="[$vuetify.breakpoint.smAndDown ? 'display-1': 'display-1']"
                       class="font-weight-light"
                     >
-                      I specialized in data analytics and machine learnings.
+                      I specialise in data analytics and machine learnings.
                     </span>
 
                   </v-col>
@@ -278,16 +278,7 @@
                           </span> <br>
                           Graduate Entrepreneur Opportunity Recognition (GEORSys) is a website written in R Shiny. The main function of GEORSys is to crawl data from Instagram based on Hashtags and find out which keywords have the highest frequency in Instagram.
                         </div>
-                        <v-btn
-                          fab
-                          text
-                          small
-                          a
-                          href="https://123ang.shinyapps.io/shinyApp"
-                          target="_blank"
-                        >
-                          <v-icon>mdi-link</v-icon>
-                        </v-btn>
+
                       </v-card-text>
                     </v-card>
                   </v-flex>
@@ -315,16 +306,7 @@
                           </span> <br>
                           UTLC Analytic is a system that allows University Teaching and Learning Center (UTLC) in Universiti Utara Malaysia (UUM) to analyze lecturers' performances and able to choose lecturers for certain training.  
                         </div>
-                        <v-btn
-                          fab
-                          text
-                          small
-                          a
-                          href="http://acaprof.tlgateway.edu.my/"
-                          target="_blank"
-                        >
-                          <v-icon>mdi-link</v-icon>
-                        </v-btn>
+  
                       </v-card-text>
                     </v-card>
                   </v-flex>
